@@ -1,0 +1,31 @@
+**WTM Algiers (Women Techmakers Algiers)** is a local chapter of the global Women Techmakers (WTM) community, an initiative led by Google to provide visibility, community, and resources for women in technology. The community is part of the broader Google Developer Groups (GDG) Algiers and focuses on empowering women in the tech ecosystem through education, skill-building, and networking opportunities. WTM Algiers serves as a platform for women to connect, share experiences, and develop technical and leadership skills to advance their careers in technology.
+
+### Annual Events Organized by WTM Algiers
+WTM Algiers hosts several signature events annually that target different aspects of technology and community engagement, aiming to inspire and encourage women to pursue careers in STEM fields. Some of the key events include:
+
+1. **International Women’s Day Celebration (IWD)**
+   - This is the flagship event of the WTM community held in March every year to celebrate International Women’s Day. The event highlights the achievements of women in technology, features keynote speeches from women leaders in tech, workshops, and panel discussions focused on technical and soft skills.
+   - Themes for IWD vary each year, with topics ranging from "Courage to Create" to "Dare to be Different," and emphasize women’s role in driving innovation and change in the tech industry.
+   - The event usually includes networking sessions, technical sessions, and hands-on coding workshops, making it a valuable opportunity for learning and inspiration.
+
+2. **WTM Algiers Summit**
+   - An exclusive event designed to foster leadership, community engagement, and mentorship for women in technology. The summit is a multi-day event featuring seminars, hands-on workshops, and hackathons aimed at encouraging women to take on leadership roles in the tech industry.
+   - The summit brings together industry experts, community leaders, and participants to discuss strategies for career growth, overcoming challenges, and leveraging technology for societal impact.
+
+3. **Tech Workshops and Bootcamps**
+   - Throughout the year, WTM Algiers organizes specialized workshops and bootcamps on various technical topics such as web development, machine learning, data science, mobile app development, and more. These sessions are designed to help participants build technical skills and gain practical experience.
+   - Workshops are usually led by experienced professionals and community members who are passionate about sharing their knowledge and empowering others through education.
+
+4. **Hackathons and Competitions**
+   - WTM Algiers also hosts hackathons and competitions, such as the "Women’s Hackathon," where women come together to collaborate, innovate, and solve real-world challenges using technology. These events promote creativity and problem-solving while providing a platform for participants to showcase their skills and gain visibility.
+
+5. **Networking and Mentorship Programs**
+   - The community offers various networking events where participants can connect with like-minded women and industry professionals. WTM Algiers also runs mentorship programs aimed at pairing experienced mentors with newcomers in the field to provide guidance, career advice, and support.
+
+6. **Community Meetups**
+   - Regular meetups and social events are organized to discuss the latest trends in technology, share project ideas, and build a sense of belonging among members. These meetups often include casual discussions, tech talks, and collaborative brainstorming sessions.
+7. **Pypong**
+   - Pypong is an event organized by wtm algiers in collaboration with SEC which is a sportif club at ESI (ecole nationale superieure d'informatique) it provides girls with workshops in AI and PingPong competition
+   
+### Impact and Vision
+WTM Algiers aims to empower women in technology and provides them with necessary hard skills by promoting  inclusion in the local tech community. Through its events and initiatives, the community empowers women to overcome barriers, gain confidence, and grow their careers in technology. With a strong focus on education, mentorship, and community building, WTM Algiers contributes significantly to the professional development of women in the tech industry in Algeria and beyond.

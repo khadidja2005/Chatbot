@@ -44,7 +44,7 @@ rag_prompt_template = PromptTemplate(
 )
 
 # Step 4: Create a Conversational Retrieval Chain
-def process_user_input(input_text):
+def process_user_inputRag(input_text):
     # Retrieve the top 2 relevant documents
     relevant_docs = vector_db.similarity_search(input_text, k=2)
     
@@ -60,6 +60,6 @@ def process_user_input(input_text):
 
 # Step 5: Test the RAG Chatbot
 user_input = "What is Pypong?"
-response = process_user_input(user_input)
+response = process_user_inputRag(user_input)
 print("User's Question: ", user_input)
 print("RAG Response: ", response)

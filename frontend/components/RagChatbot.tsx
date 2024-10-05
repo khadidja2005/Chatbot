@@ -2,13 +2,13 @@ import React, { useState } from 'react';
 import { StyleSheet, Text, View, TextInput, Button, ScrollView } from 'react-native';
 import axios from 'axios';
 
-export default function Chatbot() {
+export default function RagChatbot() {
   const [inputText, setInputText] = useState('');
   const [chatResponse, setChatResponse] = useState('');
   const [messages, setMessages] = useState([]);
 
   // Update the FastAPI server URL with your local IP address and port number
-  const API_URL = 'http://192.168.43.90:8000/chatbot/';
+  const API_URL = 'http://192.168.43.90:8000/Ragchatbot/';
 
   const handleSendMessage = async () => {
     if (!inputText) return;

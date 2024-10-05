@@ -59,7 +59,7 @@ def process_user_inputRag(input_text):
     return response
 
 # Step 5: Test the RAG Chatbot
-user_input = "What is Pypong?"
-response = process_user_inputRag(user_input)
-print("User's Question: ", user_input)
-print("RAG Response: ", response)
+# user_input = "What is Pypong?"
+# response = process_user_inputRag(user_input)
+# print("User's Question: ", user_input)
+# print("RAG Response: ", response)
